@@ -8,7 +8,7 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 ## 🛠️ Technical Highlights
 
 - **Languages:** TypeScript, Python, Bash, PHP, C#, JavaScript, Java, C/C++, GoLang
-- **Cloud & DevOps:** AWS (EKS, Secrets Manager, Amplify), Terraform, Kubernetes, Helm, Docker, CI/CD (GitHub Actions)
+- **Cloud & DevOps:** AWS, Terraform, Kubernetes, Helm, Docker, CI/CD (GitHub Actions)
 - **Authentication & Security:** Auth0, Keycloak, OAuth 2.0, OpenID Connect, runtime secrets, identity-first architecture
 - **Web & Full Stack:** React, GraphQL, Node.js, MUI, Cypress, Jest, Portfolio sites
 - **Automation:** Distributed task processing, infrastructure as code, secure user migration tools

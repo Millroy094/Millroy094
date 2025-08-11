@@ -15,8 +15,8 @@ I'm always experimenting with new technologies and improving workflows to help t
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=compact&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=compact&theme=dark)
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=dark)
 
 ---

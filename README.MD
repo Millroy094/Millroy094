@@ -1,43 +1,23 @@
-# 👋 Hi there, I'm Millroy Fernandes
+I'm Millroy Fernandes, a Senior Developer passionate about building robust, scalable systems, automating infrastructure, and ensuring secure cloud-native deployments. My work spans DevOps, backend engineering, and cloud architecture, with a strong emphasis on security and seamless developer workflows.
 
-Welcome to my GitHub! I'm a Senior Developer passionate about building scalable systems, automating infrastructure, and crafting secure cloud-native applications.
+**Key Projects:**
+- **OAuth Server**: Created and deployed an OpenID Connect-based authentication server on AWS EKS, leveraging Terraform, Helm, and GitHub Actions for automated CI/CD pipelines and comprehensive testing.
+- **Keycloak Cluster on AWS**: Engineered a highly available, scalable Keycloak cluster using Terraform on AWS, focusing on enterprise-grade identity management.
+- **Portfolio Site**: Developed a customizable, modern portfolio template to showcase developer skills and projects.
+- **Zoo Simulator**: Designed a fun PHP-based simulation project to experiment with backend logic and system modeling.
 
-## 🧠 About Me
+**Tech Stack Highlights:**  
+TypeScript, Python, Bash, PHP, C#, JavaScript, Java, C/C++, GoLang  
+AWS (EKS, Secrets Manager, Amplify), Terraform, Kubernetes, Helm, Docker, GitHub Actions  
+Auth0, OpenID Connect, runtime secrets, identity-first architecture
 
-- 💼 Senior Developer with a focus on DevOps, cloud architecture, and backend engineering.
-- ☁️ Experienced in AWS, Terraform Cloud, GitHub Actions, and Auth0.
-- 🔐 Advocate for secure deployments using runtime secrets and identity-first architecture.
-- 🧪 Always experimenting with new tech and improving developer workflows.
-
-## 🛠️ Tech Stack
-- **Languages**: TypeScript, Python, Bash, PHP, C#, JavaScript, TypeScript, Java, C, C++, GoLang, etc
-- **Cloud & DevOps**: AWS (EKS, Secrets Manager, Amplify), Terraform, GitHub Actions, Helm, Kubernetes
-- **Identity & Security**: Auth0, OpenID Connect
-- **Tools**: Docker, Postman, VS Code, Playwright
-
-## 📂 Featured Projects
-
-- [**OAuth Server**](https://github.com/Millroy094/oauth-server)  
-  OpenID Connect Auth Server deployed on AWS EKS using Terraform, Helm, and GitHub Actions. Includes CI/CD pipelines with unit and e2e tests.
-
-- [**Keycloak Cluster on AWS**](https://github.com/Millroy094)  
-  Terraform setup for deploying a Keycloak cluster on AWS with high availability and scalability.
-
-- [**Portfolio Site**](https://github.com/Millroy094/portfolio)  
-  A customizable portfolio template built with modern web technologies.
-
-- [**Zoo Simulator**](https://github.com/Millroy094/zoo-simulator) fun PHP-based simulation project.
+I'm always experimenting with new technologies and improving workflows to help teams deliver secure, efficient solutions. Let's connect and collaborate!
 
 ## 📈 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=compact&theme=dark)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=dark)
-
 ![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=dark)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Millroy094&theme=dark)
-
 
 ---
 

@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a Senior Developer passionate about building scalable 
 - [**Portfolio Site**](https://github.com/Millroy094/portfolio)  
   A customizable portfolio template built with modern web technologies.
 
-- [**Zoo Simulator**](https://github.com/Millroy094/zoo-sA fun PHP-based simulation project.
+- [**Zoo Simulator**](https://github.com/Millroy094/zoo-simulator) fun PHP-based simulation project.
 
 ## 📈 GitHub Stats
 

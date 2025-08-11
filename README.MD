@@ -31,6 +31,7 @@ Welcome to my GitHub! I'm a Senior Developer passionate about building scalable 
 ## 📈 GitHub Stats
 
 ![Millroy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Millroy094&show_iconsfern with actual)*
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=compact&theme=radical
 
 ---
 

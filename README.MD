@@ -25,7 +25,7 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 - **Auth0 Tenant to Tenant User Migration Tool:** Automated secure migration of users between Auth0 tenants using Node.js and TypeScript.
 - **Task Processor:** Distributed, asynchronous Go service for scalable task management, with Docker, RabbitMQ, and OpenAPI.
 - **Recipe Book:** Full-stack TypeScript app for organizing recipes, built with React, GraphQL, AWS, and a strong CI/CD pipeline.
-- **Tanks:** Multiplayer tank game in C#, demonstrating game development and real-time systems.
+- **Tanks:** AI tank game in C#, demonstrating game development and real-time systems.
 - **Travel Planner:** Web app for trip planning and itinerary management.
 
 ---

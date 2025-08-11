@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Millroy Fernandes (Millroy094)
 
 I'm a Senior Developer passionate about building robust, scalable systems, automating infrastructure, and ensuring secure cloud-native deployments. My work spans DevOps, backend engineering, and cloud architecture, with a strong emphasis on security and seamless developer workflows.  
-Your GitHub profile is a showcase of versatile technical projects, innovation, and commitment to modern software practices.
+My GitHub profile is a showcase of versatile technical projects, innovation, and commitment to modern software practices.
 
 ---
 

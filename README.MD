@@ -42,11 +42,11 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 ## 📈 GitHub Stats
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=merko" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&theme=dark&layout=donut-vertical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&theme=merko&layout=donut-vertical" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=dark" />
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=merko" />
 </a>

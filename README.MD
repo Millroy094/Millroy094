@@ -42,10 +42,10 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 ## 📈 GitHub Stats
 
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=radical" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=radical" />
 </a>
 <a href="#">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&theme=radical&layout=donut-vertical" />
+  <img height=400 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&theme=radical&layout=donut-vertical" />
 </a>
 <a href="#">
   <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />

@@ -52,7 +52,9 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
   </tr>
   <tr>
     <td colspan=2>
-      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
+      <div align="center">
+        <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
+      </div>
     </td>
   </tr>
 </table>

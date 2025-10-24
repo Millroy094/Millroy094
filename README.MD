@@ -43,10 +43,16 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 
 <div style="display: flex;">
   <div style="flex: 1; display: flex; justify-content: center; align-items: center;">
-    <a href <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&theme=radcal
+    <a href="#"> 
+      <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=donut-vertical&theme=radical"/>
     </a>
   </div>
   <div style="flex: 1; display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <a href <img height="200" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mill  </a>
+    <a href="#">
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=radical"/>
+    </a>
+    <a href="#">
+      <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />  
+    </a>
   </div>
 </div>

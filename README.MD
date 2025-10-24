@@ -48,7 +48,7 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
       <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />  
     </td>
     <td>
-      <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=donut-vertical&theme=radical"/>
+      <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=donut-vertical&theme=radical&hide_progress=true"/>
     </td>
   </tr>
 </table>

@@ -47,4 +47,6 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=compact&theme=dark" />
 </a>
-![GitHub Contributions](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=dark)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=dark" />
+</a>

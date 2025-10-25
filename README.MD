@@ -41,49 +41,19 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 
 ## 📈 GitHub Stats
 
-<table border="0" cellspacing="0" cellpadding="0" align="center">
+<table>
   <tr>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=radical&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" />
-      </picture>
+    <td>
+      <img height="400" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=radical&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
     </td>
-    <td style="border: none;">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=normal&theme=radical&langs_count=6"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=normal&langs_count=6"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=normal&langs_count=6" />
-      </picture>
+    <td>
+      <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=normal&theme=radical&langs_count=6"/>
     </td>
   </tr>
   <tr>
-    <td colspan="2" style="border: none;">
+    <td colspan=2>
       <div align="center">
-        <picture>
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094" />
-        </picture>
+        <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
       </div>
     </td>
   </tr>

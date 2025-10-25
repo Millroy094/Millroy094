@@ -41,7 +41,7 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 
 ## 📈 GitHub Stats
 
-<table style="border: none; border-collapse: collapse;">
+<table border="0" cellspacing="0" cellpadding="0" align="center">
   <tr>
     <td style="border: none;">
       <picture>

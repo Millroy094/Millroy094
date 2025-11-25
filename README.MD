@@ -41,4 +41,20 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 
 ## 📈 GitHub Stats
 
-<img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
+<table>
+  <tr>
+    <td>
+      <img height="400" src="https://github-readme-stats.vercel.app/api?username=Millroy094&show_icons=true&theme=radical&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"/>
+    </td>
+    <td>
+      <img height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Millroy094&layout=normal&theme=radical&langs_count=6"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2>
+      <div align="center">
+        <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
+      </div>
+    </td>
+  </tr>
+</table>

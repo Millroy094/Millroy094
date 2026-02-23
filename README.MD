@@ -42,6 +42,7 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 ## 📈 GitHub Stats
 
 <div>
+  ![img](https://github-readme-streak-stats.herokuapp.com/?user=millroy094)
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
 </div>
 

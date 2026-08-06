@@ -43,6 +43,5 @@ My GitHub profile is a showcase of versatile technical projects, innovation, and
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Millroy094&theme=radical" />
-![GitHub Stats](https://github-readme-stats.vername=Millroy094&show_icons=true&theme=radical
 </div>
 
